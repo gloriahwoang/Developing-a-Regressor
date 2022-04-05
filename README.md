@@ -10,7 +10,7 @@ Your primary goal for this assignment is to develop a good quality trip-duration
 You must get a Mean Absolute Error (MAE) Score of at most 500 on the private holdout test-dataset to get full credit.
 
 
-# My Submission
+### My Submission
 
-My final MAE was 493.82080. 
+##### My final MAE was 493.82080. 
 For this assignment, I standardized my data and used PCA to reduce the data dimensionality. Then I developed a Linear Regression Model.
